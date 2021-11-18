@@ -1,2 +1,2 @@
-# bewp3cv51.github.io
-Ejemplo de un chat y acceso a Firebase (Firestore con Google)
+# Chat3CV51CDG.github.io-
+Chat y acceso a FirebasE
