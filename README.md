@@ -1,2 +1,2 @@
 # Chat3CV51CDG.github.io-
-Chat y acceso a FirebasE
+Chat y acceso a Firebase
